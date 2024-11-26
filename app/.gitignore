@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# VS Code settings
+.vscode/
+
+# Dataset (optional)
+app/data/
